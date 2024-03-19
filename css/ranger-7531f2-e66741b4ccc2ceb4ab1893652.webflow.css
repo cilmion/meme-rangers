@@ -743,6 +743,12 @@
   padding: 8px;
 }
 
+.div-block-25.dextools {
+  width: 200px;
+  opacity: 1;
+  text-align: center;
+}
+
 .div-block-26 {
   grid-column-gap: 16px;
   grid-row-gap: 16px;
@@ -960,6 +966,10 @@
   align-items: center;
   text-decoration: none;
   display: flex;
+}
+
+.dextools-img {
+  height: 40px;
 }
 
 @media screen and (max-width: 479px) {
